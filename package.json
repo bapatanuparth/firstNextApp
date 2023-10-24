@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@iconscout/unicons": "^4.0.8",
+    "bcryptjs": "^2.4.3",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.3",
+    "next-auth": "^4.24.3",
+    "swr": "^2.2.4"
+  }
+}
